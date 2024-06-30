@@ -1,1 +1,1 @@
-# Etk-nl-k_Yonet-m_S-stem-
+Etkinlik Yönetim Sistemi
